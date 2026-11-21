@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=darisfilovic&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=darisfilovic&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&v=2" alt="GitHub streak" />
 </p>
 
 <p align="center">
